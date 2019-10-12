@@ -2,9 +2,7 @@
 
 PixelX - бот, позволяющий автоматически играть в PixelBattle 2019 ВКонтакте с нескольких ссылок.
 
-[![Группа ВКонтакте](https://img.shields.io/badge/Группа-ВКонтакте-yellow.svg)](https://vk.com/aeonix)
-[![Канал Telegram](https://img.shields.io/badge/Канал-Telegram-yellow.svg)](https://t.me/aeonixlegitistyping)
-[![Донат разработчику](https://img.shields.io/badge/Поддержать-разработчика-orange.svg)](https://qiwi.com/n/aeonix)
+
 
 ## Установка
 
